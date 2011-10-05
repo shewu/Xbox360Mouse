@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Xbox360Mouse' target in the 'Xbox360Mouse' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif

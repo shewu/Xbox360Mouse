@@ -1,0 +1,190 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeArchitecture = ppc;
+		activeBuildConfigurationName = Debug;
+		activeExecutable = A869A39814380DBA0041B258 /* Xbox360Mouse */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* Xbox360Mouse */;
+		addToTargets = (
+			8DD76F960486AA7600D96B5E /* Xbox360Mouse */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = A869A3A314380DC00041B258 /* Code sense */;
+		executables = (
+			A869A39814380DBA0041B258 /* Xbox360Mouse */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					243,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 339352181;
+			PBXWorkspaceStateSaveDate = 339352181;
+		};
+		perUserProjectItems = {
+			A87DE291143977F100A2FA11 /* PBXTextBookmark */ = A87DE291143977F100A2FA11 /* PBXTextBookmark */;
+			A881C47A143B4F6A0097A99B /* PBXTextBookmark */ = A881C47A143B4F6A0097A99B /* PBXTextBookmark */;
+			A881C47E143BA6920097A99B /* PBXTextBookmark */ = A881C47E143BA6920097A99B /* PBXTextBookmark */;
+			A881C47F143BA6920097A99B /* PBXTextBookmark */ = A881C47F143BA6920097A99B /* PBXTextBookmark */;
+		};
+		sourceControlManager = A869A3A214380DC00041B258 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* Xbox360Mouse.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {698, 986}}";
+			sepNavSelRange = "{143, 0}";
+			sepNavVisRange = "{0, 493}";
+			sepNavWindowFrame = "{{440, 0}, {757, 1058}}";
+		};
+	};
+	8DD76F960486AA7600D96B5E /* Xbox360Mouse */ = {
+		activeExec = 0;
+		executables = (
+			A869A39814380DBA0041B258 /* Xbox360Mouse */,
+		);
+	};
+	A869A39814380DBA0041B258 /* Xbox360Mouse */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Xbox360Mouse;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	A869A3A214380DC00041B258 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	A869A3A314380DC00041B258 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	A869A63514381C190041B258 /* DeviceItem.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {681, 986}}";
+			sepNavSelRange = "{1275, 0}";
+			sepNavVisRange = "{0, 1442}";
+			sepNavWindowFrame = "{{19, -5}, {740, 1058}}";
+		};
+	};
+	A869A63614381C190041B258 /* DeviceItem.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {800, 1036}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{92, 2110}";
+		};
+	};
+	A869A63E14381F850041B258 /* XBControl.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {410, 616}}";
+			sepNavSelRange = "{517, 23}";
+			sepNavVisRange = "{0, 1032}";
+			sepNavWindowFrame = "{{203, 334}, {444, 642}}";
+		};
+	};
+	A869A63F14381F850041B258 /* XBControl.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {812, 5418}}";
+			sepNavSelRange = "{9615, 0}";
+			sepNavVisRange = "{8755, 1524}";
+			sepNavWindowFrame = "{{1166, 0}, {740, 1058}}";
+		};
+	};
+	A87DE291143977F100A2FA11 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A869A63F14381F850041B258 /* XBControl.m */;
+		name = "XBControl.m: 323";
+		rLen = 0;
+		rLoc = 9364;
+		rType = 0;
+		vrLen = 1606;
+		vrLoc = 7949;
+	};
+	A881C424143A1BE30097A99B /* XBMouseMove.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {681, 986}}";
+			sepNavSelRange = "{435, 0}";
+			sepNavVisRange = "{0, 435}";
+			sepNavWindowFrame = "{{434, 0}, {740, 1058}}";
+		};
+	};
+	A881C425143A1BE30097A99B /* XBMouseMove.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {681, 1302}}";
+			sepNavSelRange = "{1214, 0}";
+			sepNavVisRange = "{315, 1808}";
+			sepNavWindowFrame = "{{299, 0}, {740, 1058}}";
+		};
+	};
+	A881C47A143B4F6A0097A99B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A881C425143A1BE30097A99B /* XBMouseMove.m */;
+		rLen = 0;
+		rLoc = 2147483757;
+		rType = 0;
+	};
+	A881C47E143BA6920097A99B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A881C425143A1BE30097A99B /* XBMouseMove.m */;
+		name = "XBMouseMove.m: 50";
+		rLen = 0;
+		rLoc = 1214;
+		rType = 0;
+		vrLen = 1808;
+		vrLoc = 315;
+	};
+	A881C47F143BA6920097A99B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A869A63F14381F850041B258 /* XBControl.m */;
+		name = "XBControl.m: 354";
+		rLen = 0;
+		rLoc = 9615;
+		rType = 0;
+		vrLen = 1524;
+		vrLoc = 8755;
+	};
+}
