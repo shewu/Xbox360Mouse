@@ -1,5 +1,7 @@
 Simple Daemon that lets you use your Xbox 360 controller as a Mouse. Perfect for bed computers and home theater setups. I wrote it so I could use my iMac G4 sitting on my nightstand without a keyboard or a mouse (I need a chatpad for the controller for the keyboard part to work). The daemon uses very little memory and requires the Xbox 360 Mac driver to work.
 
+Oct 5: I've worked on this for 10hr at most? I'd like to have some sort of GUI to customize what the buttons do. In addition, only basic mousing works. I'd like to have dragging and arrow keys and other things work preferably by the end of the week. I realize that this blurb doesn't make any sense because I'm just writing what my head is dictating as I'm thinking about locks for 6.828.
+
 Much of the project is based off Colin Munro's work:
 
 	http://tattiebogle.net/index.php/ProjectRoot/Xbox360Controller
